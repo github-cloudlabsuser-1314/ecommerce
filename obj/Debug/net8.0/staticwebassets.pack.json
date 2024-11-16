@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\JSON\\decent-parts.json",
+      "PackagePath": "staticwebassets\\assets\\JSON\\decent-parts.json"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\BF-Goodrich-Tyre-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\BF-Goodrich-Tyre-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\BF-Goodrich-Tyre-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\BF-Goodrich-Tyre-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Bridgestone-tyre-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Bridgestone-tyre-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Brounze-Wheel-Cup-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Brounze-Wheel-Cup-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Brounze-Wheel-Cup-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Brounze-Wheel-Cup-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Center-Wheel-Cap-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Center-Wheel-Cap-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Center-Wheel-Cap-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Center-Wheel-Cap-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Chrome-Wheel-Cap-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Chrome-Wheel-Cap-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Chrome-Wheel-Cap-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Chrome-Wheel-Cap-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Continental-tyre-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Continental-tyre-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Continental-tyre-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Continental-tyre-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Dunlop-Tyre-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Dunlop-Tyre-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Dunlop-Tyre-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Dunlop-Tyre-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Turtle-Wax-Ultra-Wet-Tire-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Turtle-Wax-Ultra-Wet-Tire-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Turtle-Wax-Ultra-Wet-Tire-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Turtle-Wax-Ultra-Wet-Tire-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Turtle-Wax-Wet&Black-Foam-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Turtle-Wax-Wet&Black-Foam-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Turtle-Wax-Wet&Black-Foam-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Turtle-Wax-Wet&Black-Foam-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Wheel-Cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Wheel-Cover-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\Wheel-Cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\Wheel-Cover-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\bridgestone-tyre-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\bridgestone-tyre-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\car-aluminium-nuts-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\car-aluminium-nuts-1.jpeg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\car-aluminium-nuts-2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\car-aluminium-nuts-2.jpeg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\d1-spec-lugnuts-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\d1-spec-lugnuts-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\d1-spec-lugnuts-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\d1-spec-lugnuts-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\rays-lug-nuts-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\rays-lug-nuts-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\rays-lug-nuts-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\rays-lug-nuts-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\spikes-lug-nuts-wheelnuts-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\spikes-lug-nuts-wheelnuts-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\spikes-lug-nuts-wheelnuts-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\spikes-lug-nuts-wheelnuts-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\yakohama-tyre-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\yakohama-tyre-1.jpeg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\1\\yakohama-tyre-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\1\\yakohama-tyre-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\Daihatsu-Cuore-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\Daihatsu-Cuore-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\Daihatsu-Cuore-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\Daihatsu-Cuore-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\Toyota-Hilux-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\Toyota-Hilux-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\Toyota-Hilux-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\Toyota-Hilux-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\chrome-door-moulding-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\chrome-door-moulding-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\chrome-door-moulding-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\chrome-door-moulding-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\door-guards-protector-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\door-guards-protector-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\door-guards-protector-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\door-guards-protector-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\door-handle-for-toyota-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\door-handle-for-toyota-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\door-handle-for-toyota-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\door-handle-for-toyota-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\honda-civic-chrome-handle-covers-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\honda-civic-chrome-handle-covers-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\honda-civic-chrome-handle-covers-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\honda-civic-chrome-handle-covers-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\honda-vezel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\honda-vezel-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\honda-vezel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\honda-vezel-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\rear-door-left-side-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\rear-door-left-side-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\rear-door-left-side-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\rear-door-left-side-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\rear-door-right-side-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\rear-door-right-side-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\rear-door-right-side-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\rear-door-right-side-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\suzuki-alto-handle-cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\suzuki-alto-handle-cover-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\suzuki-alto-handle-cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\suzuki-alto-handle-cover-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\suzuki-door-handle-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\suzuki-door-handle-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\suzuki-door-handle-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\suzuki-door-handle-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-bed-rack-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-bed-rack-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-bed-rack-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-bed-rack-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-bed-rack-mount-kit-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-bed-rack-mount-kit-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-bed-rack-mount-kit-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-bed-rack-mount-kit-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-cab-top-cover-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-cab-top-cover-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\truck-cab-top-cover-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\truck-cab-top-cover-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\wheel-locks-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\wheel-locks-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\wheel-locks-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\wheel-locks-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\2\\window-visors.png",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\2\\window-visors.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\car-audio-amplifier-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\car-audio-amplifier-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\car-audio-amplifier-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\car-audio-amplifier-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\coverlay-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\coverlay-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\coverlay-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\coverlay-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\door-switch-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\door-switch-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\door-switch-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\door-switch-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\heater-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\heater-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\heater-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\heater-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\horns-kit-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\horns-kit-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\keyless-car-case-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\keyless-car-case-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\keyless-car-case-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\keyless-car-case-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\mirror-switch-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\mirror-switch-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\mirror-switch-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\mirror-switch-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\relay-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\relay-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\3\\relay-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\3\\relay-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\carbon-fiber-side-mirror-indicator-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\carbon-fiber-side-mirror-indicator-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\carbon-fiber-side-mirror-indicator-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\carbon-fiber-side-mirror-indicator-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-back-lights-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-back-lights-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-back-lights-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-back-lights-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-carbon-fiber-side-mirror-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-carbon-fiber-side-mirror-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-carbon-fiber-side-mirror-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-carbon-fiber-side-mirror-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-headlights-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-headlights-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\honda-civic-headlights-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\honda-civic-headlights-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\hyndai-headlight-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\hyndai-headlight-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\mirror-indicator-light-honda-city-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\mirror-indicator-light-honda-city-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\mirror-indicator-light-honda-city-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\mirror-indicator-light-honda-city-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-corolla-nike-headlights-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-corolla-nike-headlights-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-corolla-nike-headlights-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-corolla-nike-headlights-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-taiwan-sidemirror-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-taiwan-sidemirror-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-taiwan-sidemirror-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-taiwan-sidemirror-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-vitz-mirror-light-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-vitz-mirror-light-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyota-vitz-mirror-light-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyota-vitz-mirror-light-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyoto-corolla-backlight-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyoto-corolla-backlight-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\toyoto-corolla-backlight-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\toyoto-corolla-backlight-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\universal-front-mirror-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\universal-front-mirror-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\universal-front-mirror-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\universal-front-mirror-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\wiper-blades-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\wiper-blades-1.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\json-url\\4\\wiper-blades-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\json-url\\4\\wiper-blades-2.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\Auto-Parts-Accessories-bg-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\Auto-Parts-Accessories-bg-image.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\Spinner-1s-200px.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\Spinner-1s-200px.gif"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\about.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\about.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\autoparts.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\autoparts.webp"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\blog-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\blog-img.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\blog.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\blog.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\car-headlight.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\car-headlight.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\car-horn.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\car-horn.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\car-relay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\car-relay.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\door-accessories.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\door-accessories.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\mobile-electronics.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\mobile-electronics.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\nuts.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\nuts.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\side-mirrors.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\side-mirrors.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\slider-1.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\slider-1.webp"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\slider-2.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\slider-2.webp"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\slider-3.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\slider-3.webp"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\truck-accessories.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\truck-accessories.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\tyre.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\tyre.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\wheel-accessories.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\wheel-accessories.jpg"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\window-visors.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\window-visors.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\images\\website-images\\wiper-blades.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\wiper-blades.png"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\script\\product_details.js",
+      "PackagePath": "staticwebassets\\assets\\script\\product_details.js"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\script\\products.js",
+      "PackagePath": "staticwebassets\\assets\\script\\products.js"
+    },
+    {
+      "Id": "C:\\LabFiles\\ECommerceApp\\wwwroot\\assets\\script\\user-cart.js",
+      "PackagePath": "staticwebassets\\assets\\script\\user-cart.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECommerceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECommerceApp.props",
+      "PackagePath": "build\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerceApp.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerceApp.props",
+      "PackagePath": "buildTransitive\\ECommerceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
